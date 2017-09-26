@@ -180,7 +180,7 @@ JAP_kakushinha_AGR:0 "Bureaucratic Agrarianism"
 JAP_kakushinha_AGR_desc:0 "The Kakushinha faction's solution to Japan's crumbling agricultural system is to create another bureaucratic institution to regulate land ownership in the empire."
 
 ### Focuses - Economic - Base ###
-JAP_tech_team:0 "National R&D Institutes"
+JAP_tech_team:0 "국립 연구기관"
 JAP_tech_team_desc:0 "By funding the National Research and Development Institutes, we can make it easier for independent research teams to work together, improving our research output, and allowing us to better direct national research priorities."
 
 ### Focuses - Economic - Zaibatsu ###
